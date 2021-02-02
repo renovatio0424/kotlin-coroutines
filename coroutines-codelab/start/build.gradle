@@ -55,4 +55,6 @@ dependencies {
 
     testImplementation testLibraries
     androidTestImplementation androidTestLibraries
+
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0"
 }
